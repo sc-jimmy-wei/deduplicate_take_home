@@ -15,8 +15,8 @@ The application should also provide a log of changes including some representati
 Please implement as a command line program.
 
 ## Run Program
-- make sure `deduplicate.py` and `leads.json` are in the same folder
-- cd to the folder that contains both files
-- python3 dedpulicate.py
-- see the result printed in the console
-- can change data in leads.json to test different scenarios
+- Make sure `deduplicate.py` and `leads.json` are in the same folder
+- `cd` to the folder that contains both files
+- `python3 dedpulicate.py`
+- See the result printed in the console - deduplicated result followed with change log
+- Can change data in leads.json to test different scenarios
